@@ -9,11 +9,9 @@ This repository contains my implementations of three key NLP techniques—**PPMI
 - **TF-IDF**: Developed a method to weigh the importance of words within the TED talk dataset.
 - **Heatmap Visualizations**: Created heatmaps to visually represent the relationships and patterns in the data.
 
-Each method was designed to work on raw data, providing insights into the semantic relationships within the TED talks.
-
 ## Dataset
 
-The project uses a TED talk dataset, which consists of transcripts from various TED talks, enabling an in-depth analysis of language patterns and word associations.
+The project uses a TED talk dataset, which consists of transcripts from various TED talks.
 
 ## How to Run
 
